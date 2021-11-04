@@ -1,3 +1,22 @@
 body {
 background-image: url('https://cutewallpaper.org/21/black-gif-background/50-GIF-as-a-Wallpaper-on-WallpaperSafari.gif')
 }
+
+p {
+  text-align: center;
+  text-color: White;
+  text-weight: Bold;
+}
+
+h1 {
+  text-align: center;
+  text-color: White;
+  text-weight: Bold;
+}
+
+h2 {
+  text-align: center;
+  text-color: White;
+  text-weight: Bold;
+  font-size: 200px;
+}
